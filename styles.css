@@ -104,7 +104,8 @@ ul {
 }
 
 .Presentation button:hover {
-    border: solid white ;
+    background-color: white;
+    color: #3882f6;
     
 }
 .info {
