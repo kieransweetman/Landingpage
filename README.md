@@ -1,4 +1,4 @@
-# Landing page: the Odin Project
+# Landing page: The Odin Project
 
 Learning Elements:
   - CSS flexbox fundamentals 
