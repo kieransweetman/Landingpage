@@ -8,11 +8,11 @@ Learning Elements:
   - Psuedo Classes
 
 
-# Application
+# Overview
 
 For this small project, I was tasked to make a landing page based on a screenshot. I learned how to maniuplate flexbox's, apply CSS properties, and the positioning of all the important elements on the page. 
 
-# Problems that arose 
+ 
 
   - Getting the NavBar to stick, and to give it more 'depth' on the page (no nav tag) => used the 'position: fixed;' property with a box shadow. Items within are spaced evenly to give a more balanced look.
   
